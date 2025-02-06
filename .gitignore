@@ -1,0 +1,23 @@
+# Ignore build directory
+/build/
+
+# Ignore executable
+/FlappyBird
+
+# Ignore CMake cache and generated files
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/Makefile
+
+# Ignore editor-specific files
+/.vscode/
+/.idea/
+
+# Ignore compiled files
+*.o
+*.so
+*.a
+
+# Ignore system files
+.DS_Store
